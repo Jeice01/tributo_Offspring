@@ -1,0 +1,96 @@
+html{
+   font-family: sans-serif;
+   background: url('../img/BG-rock.jpg');
+   background-color: #f2f2f2;
+   background-size: cover; /* ou 'contain' dependendo do resultado desejado */
+    background-repeat: no-repeat;
+    background-position: center center; 
+}
+
+.container{
+    max-width: 1100px;
+    background-color: #d4d4d4;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+    box-shadow: 0 0 10px rgba(99, 88, 138, 0.531);
+    border-radius: 1%;
+}
+
+/* .bold{
+    font-weight: bold;
+} */
+
+/* header */
+.header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main-title{
+    font-size: 2em;
+    color: #333;
+}
+
+.main-paragraph{
+    font-style: normal;
+    color: #555;
+}
+
+/* Imagem destaque */
+.feature-image{
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 1%;
+    
+}
+
+/* Biografia */
+.biography-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Quotes */
+.quotes-container{
+    background-color: #eee;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(99, 88, 138, 0.531);
+    border-radius: 3%;
+}
+
+.quotes-container blockquote{
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
+.quotes-container p {
+    font-style: italic;
+    color: #777
+}
+
+/* Curiosidades */
+.curiosities-container{
+    padding: 25px 0;
+    margin: 25pz 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    
+}
+
+.curiosities-container li {
+    line-height: 1.6;
+}
+
+/* Imagem bold */
+.img-bold {
+    text-align: center;
+    /* margin: 20px 0; */
+    
+}
+
+.img-bold figcaption{
+    font-style: italic;
+}
