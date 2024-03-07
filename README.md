@@ -14,8 +14,10 @@ Este projeto foi desenvolvido como parte do aprendizado de HTML e CSS. Ele é um
 - CSS
 
 ## Como Usar
-1. Clone o repositório: `git clone https://seurepositorio.com/nome-do-seu-projeto.git`
+1. Clone o repositório: `git clone https://github.com/Jeice01/tributo_Offspring.git`
 2. Abra o arquivo `index.html` em seu navegador.
+3. Puxe as alterações para o seu projeto local:
+  `git pull origin main`
 
 ## Contribuição
 Se deseja contribuir para o projeto, siga estas etapas:
